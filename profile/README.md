@@ -20,10 +20,10 @@
 | 기획 | 박형준 | 📊서비스 기획 - 프로젝트 매니징, 유저리서치, 비즈니스 모델 |
 | 기획 | 채영대 | 📋 서비스 기획 - 서비스 기획 - 문제 정의 및 솔루션 제시, 유저리서치 |
 | 디자인 | 이재영 | 📢 서비스 디자인 |
-| 개발 | 박진우 | 🔦 프론트엔드 리드, iOS 화면 UI 구현, 서버 연동 |
-| 개발 | 박예진 | 📱 iOS 화면 UI 구현, 서버 연동 |
-| 개발 | 이민정 | 💻 백엔드 리드, DB 및 API 구축, 서버 배포 |
-| 개발 | 오진영 | 🖥️ DB 및 API 구축, 서버 배포 |
+| 개발 | 박진우 | 🖥️ 개발 리드, 웹 화면 UI 구현, 서버 연동 |
+| 개발 | 박예진 | 🖥️ 웹 화면 UI 구현, 서버 연동 |
+| 개발 | 이민정 | 💻 DB 및 API 구축, 서버 배포 |
+| 개발 | 오진영 | 💻 DB 및 API 구축, 서버 배포 |
 <br>
 
 ## 🔎 목적 및 필요성
@@ -98,22 +98,20 @@
 
 ## **💻 Technology**
 
-
-// 각 파트별 스택을 적어주세요
-
-- Web 
+- Frontend 
    - ![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white)
     - ![React](https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white)
       ![React-Query](https://img.shields.io/badge/reactquery-FF4154?style=flat-square&logo=reactquery&logoColor=white)
       ![Axios](https://img.shields.io/badge/axios-DB5C3F?style=flat-square&logo=axios&logoColor=white)
       ![Recoil](https://img.shields.io/badge/recoil-f26b00?style=flat-square&logo=recoil&logoColor=white)
       ![Styled-Components](https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
+      ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=Tailwind%20CSS&logoColor=white)
       ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white)
     - ![vite](https://img.shields.io/badge/vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 <br><br>
   
-- Server
+- Backend
      - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
       ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=Java&logoColor=white)
       ![Springboot](https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -143,14 +141,13 @@
 ### **🐾 기술 스택 선정 이유**
 
 
-
-### **📘 Web 스택 선정 이유**
+### **📘 Frontend 스택 선정 이유**
 
 #### React
 - 가장 많이 사용되는 라이브러리로, 개발 생산성을 위해 도입하였습니다.
 - 컴포넌트 기반 아키텍처: React는 UI를 컴포넌트로 나누어 개발하도록 돕는 컴포넌트 기반 아키텍처를 제공합니다. 이로써 코드를 재사용하고 유지보수하기 쉽습니다.
 - Virtual DOM: React의 가상 DOM은 성능을 최적화하고 브라우저 상의 DOM 조작을 최소화하여 빠른 웹 애플리케이션을 구축하는 데 도움을 줍니다.
-- 
+  
 #### TypeScript
 - 동적 타입 체크를 통한 코드 안정성 향상 및 오탈자 방지
 
@@ -173,8 +170,26 @@
 
 
 <br><br>
-### **📗 Server 스택 선정 이유**
+### **📗 Backend 스택 선정 이유**
 
+#### Spring Data JPA 
+- 자바에서 db bender에 종속되지 않고 객체 중심으로 애플리케이션 개발 가능합니다.
+
+**Infra**
+#### AWS EC2 
+- 스프링 애플리케이션 배포 서버로 프리티어를 통해 무료로 일정량 사용할 수 있습니다.,
+#### RDS mysql 
+- 일정량 무료로 사용할 수 있으며 클라우드 인스턴스화 할 수 있습니다.
+#### S3
+- 필요한 데이터를 어디서나 쉽게 저장하고 검색할 수 있도록 해줍니다.,
+#### Docker 
+- CICD를 진행 할 때 실행 가능한 서버 애플리케이션을 도커를 통해 컨테이너화 시켜 서버 환경에서 쉽게 실행할 수 있게 합니다.
+#### Docker-compose 
+- EC2 인스턴스 내부에서 빌드할 docker image 쉽게 관리할 수 있게 합니다.
+#### git action 
+- Github에서 제공하는 CICD 프로세스로 젠킨스와 같은 별도의 파이프라인을 구축할 필요 없다는 장점이 있습니다.
+#### Spring Security 
+- Spring boot와 통합하여 사용자 인증과 인가에 대한 보안 요구사항을 쉽게 처리하도록 도와줍니다.
 <br><br>
 
 ## 🔖 Naming Rules
