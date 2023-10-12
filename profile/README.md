@@ -1,14 +1,225 @@
-# 큐시즘 28기 밋업데이 D조😎
-
-## [작성]
-팀명, RnR, 목적 등 기획파트 작성 부탁드립니다!
+# 🌟 서비스명
 
 
-## 📢개발팀 행동 강령📢 (이하 수정 예정)
 
-### 📕 커밋 컨벤션
+<br><br>
 
-커밋 메세지는 <b>[기능 키워드(이슈번호) : 커밋 내용]</b>으로 작성할 것!
+## 서비스 소개를 적어주세요.
+> OOO은 … 서비스입니다.
+<br>
+
+## 🕊️ 팀명
+### 팀명 :
+<br>
+
+## R&R
+
+| 분야 | 이름 | 포지션 |
+| --- | --- | --- |
+| 기획 | 민혜린 | 📈서비스 기획 - 문제 정의 및 솔루션 제시, 유저리서치 |
+| 기획 | 박형준 | 📊서비스 기획 - 프로젝트 매니징, 유저리서치, 비즈니스 모겔 |
+| 기획 | 채영대 | 📋 서비스 기획 - 유저리서치, 경쟁사 분석 및 타겟 분석, 서비스 타겟층 정의 |
+| 디자인 | 이재영 | 📢 서비스 디자인 |
+| 개발 | 박진우 | 🔦 프론트엔드 리드, iOS 화면 UI 구현, 서버 연동 |
+| 개발 | 박예진 | 📱 iOS 화면 UI 구현, 서버 연동 |
+| 개발 | 이민정 | 💻 백엔드 리드, DB 및 API 구축, 서버 배포 |
+| 개발 | 오진영 | 🖥️ DB 및 API 구축, 서버 배포 |
+<br>
+
+## 🔎 목적 및 필요성
+
+### 목적
+
+이 서비스를 통해 어떤 문제를 해결하고 싶은지, 서비스를 기획하는 목적을 작성해주세요. 
+<br>
+### 필요성
+
+데스크리서치, 유저리서치 등을 바탕으로 파악한 이 서비스의 필요성을 작성해주시면 됩니다. 
+<br><br><br>
+## 📊 리서치 및 시장조사
+### 1️⃣ 경쟁사 분석
+<br>
+
+### 2️⃣ 목표 시장
+
+| TAM | SAM | SOM |
+| --- | --- | --- |
+|  |  |  |
+| 000만 명 | 000만 명 | 00만 명 |
+
+> *앱 다운로드 건 수 00만 건(수익시장의 00%) 확보를 시작으로, 점차 시장을 넓혀갈 예정입니다.*
+> 
+<br>
+
+### 3️⃣ 유저리서치 분석
+<br>
+
+## 👀 서비스 타겟층 정의
+
+
+00의 목표 타겟은 … 입니다.
+
+| 분류 | 1차 타겟 유저 | 2차 타겟 유저 |
+| --- | --- | --- |
+| 타겟 설정 |  |  |
+| 관련 기능 |  |  |
+<br>
+
+## 💡 서비스 소개
+
+### **개요**
+<br>
+
+### 핵심 기능
+
+***팀 내의 논의 결과에 따라 메뉴구조도, 플로우차트, 서비스블루프린트 등의 기획문서를 작성하여 첨부해주세요.***
+<br><br><br>
+## 📊 서비스 비즈니스 모델
+
+
+|  | 관련 파트너 1 | 관련 파트너 2 | 내용 |
+| --- | --- | --- | --- |
+| STEP 1 |  |  |  |
+| STEP 2 |  |  |  |
+
+<br><br>
+
+## **🎨 디자인 무드보드**
+
+
+
+<br><br>
+
+## **🔍 System Architecture**
+
+![image](https://github.com/Kusitms-28th-Meetup-D/demo-repository/assets/77064618/cc1f9a31-cba1-4105-b0a8-a9ecc979ac29)
+
+<br><br>
+
+## **💻 Technology**
+
+
+// 각 파트별 스택을 적어주세요
+
+- Web 
+   - ![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white)
+    - ![React](https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white)
+      ![React-Query](https://img.shields.io/badge/reactquery-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+      ![Axios](https://img.shields.io/badge/axios-DB5C3F?style=flat-square&logo=axios&logoColor=white)
+      ![Recoil](https://img.shields.io/badge/recoil-f26b00?style=flat-square&logo=recoil&logoColor=white)
+      ![Styled-Components](https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
+      ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white)
+    - ![vite](https://img.shields.io/badge/vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+<br><br>
+  
+- Server
+     - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
+      ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=Java&logoColor=white)
+      ![Springboot](https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+      ![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+      ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white)
+      ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+      ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+    - ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+      ![RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat-square&logo=Amazon%20RDS&logoColor=white)
+      ![S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white)
+      ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white)
+    - ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
+      ![EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white)
+      ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+      ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
+  <br><br>
+  
+- Co-working Tool
+  - ![swagger](https://img.shields.io/badge/swagger-85EA2D.svg?style=flat-square&logo=swagger&logoColor=white)
+      ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
+      ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+ <br><br>
+
+  
+
+### **🐾 기술 스택 선정 이유**
+
+
+
+### **📘 Web 스택 선정 이유**
+
+#### React
+- 가장 많이 사용되는 라이브러리로, 개발 생산성을 위해 도입하였습니다.
+- 컴포넌트 기반 아키텍처: React는 UI를 컴포넌트로 나누어 개발하도록 돕는 컴포넌트 기반 아키텍처를 제공합니다. 이로써 코드를 재사용하고 유지보수하기 쉽습니다.
+- Virtual DOM: React의 가상 DOM은 성능을 최적화하고 브라우저 상의 DOM 조작을 최소화하여 빠른 웹 애플리케이션을 구축하는 데 도움을 줍니다.
+- 
+#### TypeScript
+- 동적 타입 체크를 통한 코드 안정성 향상 및 오탈자 방지
+
+#### Styled-Components
+- 컴포넌트 재사용이 편리하고 유지보수가 간편함
+- 컴포넌트 수준에서 스타일링을 관리하는 효과적인 방법 제공
+
+#### Recoil
+- 전역 상태를 관리하기 위한 간단하고 직관적인 방법 제공하는 라이브러리
+
+#### Tailwind CSS:
+- 클래스 기반 스타일링: Tailwind CSS는 클래스를 사용하여 스타일을 정의하므로 컴포넌트에서 쉽게 스타일을 적용할 수 있습니다.
+- 가독성 및 유지보수성: 명시적인 클래스 이름을 사용하므로 코드를 읽고 이해하기 쉽습니다. 또한 일관된 디자인을 적용하기 용이합니다.
+- 편리한 반응형 디자인: Tailwind CSS는 반응형 디자인을 쉽게 적용할 수 있도록 도와줍니다.
+
+#### Axios:
+- HTTP 요청 라이브러리: Axios는 HTTP 요청을 쉽게 보내고 응답을 처리할 수 있는 라이브러리로, RESTful API와 통신하기 위한 강력한 도구입니다.
+- Promise 기반: Axios는 Promises를 사용하여 비동기 작업을 처리하므로 코드가 간결하고 오류 처리가 효율적입니다.
+
+
+
+<br><br>
+### **📗 Server 스택 선정 이유**
+
+<br><br>
+
+## 🔖 Naming Rules
+### Frontend
+- component : **PascalCase**
+  - 최상위 태그 : **-Layout**
+  - 차상위 태그 : **-Container**
+- constant : **SNAKE_CASE**
+- 변수 : **camelCase**
+- recoil atom : **camelCaseState**
+- Interface
+  - props : **PascalCaseProps**
+  - api response : **PascalCaseResponse**
+
+### Backend
+- **Packages**
+  - 항상 소문자로 생성하기
+- **Classes**
+  - 명사여야 한다.
+  - 복합 단어의 경우 각 단어의 첫글자는 대문자.
+  - 완전한 단어를 사용하고, 두 문자어와 약어는 피한다.
+- **Interfaces**
+  - 인터페이스 이름도 클래스 이름과 같은 대문자 규칙을 적용한다.
+- **Methods**
+  - 동사여야 한다.
+  - 복합 단어의 경우 첫 단어는 소문자로 시작한다.
+- **Constants**
+  - 클래스 상수로 선언된 변수들과 상수들의 이름은 모두 대문자로 쓰고 각 단어는 언더바 ("_")로 분리한다.
+-** Variables**
+  - 변수 이름의 첫번째 문자는 소문자여야 한다.
+  - 언더바 또는 달러 표시 문자로 시작하는 것이 허용 되기는 하지만, 사용하지 말자.
+  - 짧지만 의미있게 짓는다.
+  - 변수의 사용 의도를 알 수 있도록 의미적으로 짓는다.
+  - 한문자로만 이루어진 변수는 암시적으로만 사용하고 버릴 변수를 제외하고는 피한다.
+  - 임시 변수의 이름은 integer는 i,j,k,m,n 을 사용하고 character는 c,d,e를 사용한다.
+- **ETC**
+  - DB 테이블: **lower_snake_case**
+  - ENUM, 상수: **Upper_snake_case**
+  - 컬렉션(Collection): **복수형**을 사용하거나 **컬렉션을 명시한다**. (Ex. userList, users, userMap)
+  - LocalDateTime: 접미사에 **Date**를 붙인다.
+
+<br><br><br>
+
+## **🗂️ Commit Convention**
+
 
 Ex) `git commit -m "feat(#8) : 앱 설치 플로팅 배너 추가" `
 
@@ -24,58 +235,16 @@ Ex) `git commit -m "feat(#8) : 앱 설치 플로팅 배너 추가" `
 - `perf` : 성능 개선
 - `rename` : 파일 혹은 폴더명 변경
 
+
+
 <br>
 
-### 📙 Git Flow 전략
-
+## **🐬 Git Flow**
 - `main` : 출시 가능한 프로덕션 코드의 브랜치
 - `develop` : 다음 버전을 개발하는 브랜치
 - `feature` : 기능을 개발하는 브랜치
 - `hotfix` : 출시 버전에서 발생한 버그를 수정하는 브랜치
 
-<br>
-
-### 📒 Issue 템플릿 및 라벨
-
-#### 이슈 템플릿 : 이슈 생성시 목적에 맞는 템플릿을 사용합시다.
-
-![이슈 템플릿 이미지](./.github/issue_template_img.png)
-
-#### 이슈 라벨 : 이슈를 분류할 때 라벨을 추가합니다:
-
-- `🛠Feat` : 기능 개발을 할 때는 이 라벨을 사용합니다.
-- `🔨Bug` : 버그를 수정할 때는 이 라벨을 사용합니다.
-- `⚙Chore` : 설정 또는 패키지 매니징에는 이 라벨을 사용합니다.
-- `📃Docs` : 문서 작업이 필요할 때는 이 라벨을 사용합니다.
-- `✅Test` : 테스트 관련 이슈는 이 라벨을 사용합니다.
-- `♻Refactor` : 리팩터링이 필요할 때는 이 라벨을 사용합니다.
+  브랜치 네이밍 : `feat/이슈번호`
 
 <br>
-
-### 📗 Pull Request 템플릿
-
-Pull Request Title  : <b>[기능 키워드(이슈번호) : 작업 내용]</b>
-- 작업 내용, 작업 사항, 변경 로직 등 명시
-
-<br>
-
-### 📘 작업 방식 
-
-1. `main` → `develop` 브랜치
-   - 최신 배포 직후에는 `main`과 `develop` 변경 사항이 동일함
-   - `Tag`를 이용하여 Release 버전 명시
-2. `develop` → `feat/개발 내용` 브랜치
-3. 작업 후 `feat/개발 내용` → `develop` PR
-
-   - 충돌 해결 및 테스트 코드 pass 확인 (CI)
-
-4. 코드 리뷰 진행
-   - 최소 1번
-5. `feat/개발 내용` → `develop` Merge
-   - Squash and Merge 또는 `--no-ff`
-   - merge 후 `feat/개발 내용` 브랜치 삭제하기
-6. 배포 시점에 `develop` → `main` PR 및 Merge
-   - Merge commit or Rebase and Merge
-   - CI/CD 작동
-7. 애플리케이션 장애가 발생하면 `main` → `hotfix/{문제상황}` 브랜치로 분기
-   - 버그 수정 후 `main`으로 merge
