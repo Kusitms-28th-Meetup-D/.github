@@ -11,6 +11,7 @@
 ## 🕊️ 팀명
 ### 팀명 : 도도독동료
 
+![wanteam_title](https://github.com/Kusitms-28th-Meetup-D/.github/assets/113091000/bf11b695-8408-46a9-bccb-b5863a6980e9)
 
 
 <br>
