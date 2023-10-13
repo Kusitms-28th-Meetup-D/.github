@@ -198,67 +198,34 @@ Wanteam 서비스는  ‘공모전, 대회를 비롯한 대외활동을 함께�
 
 <br><br>
 
-## **💻 Technology**
+## 🔑기술 스택
 
-- Frontend 
-   - ![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white)
-    - ![React](https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white)
+### 🖥️Frontend 
+- ![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white)
+- ![React](https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white)
       ![React-Query](https://img.shields.io/badge/reactquery-FF4154?style=flat-square&logo=reactquery&logoColor=white)
       ![Axios](https://img.shields.io/badge/axios-DB5C3F?style=flat-square&logo=axios&logoColor=white)
       ![Recoil](https://img.shields.io/badge/recoil-f26b00?style=flat-square&logo=recoil&logoColor=white)
       ![Styled-Components](https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
       ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=Tailwind%20CSS&logoColor=white)
       ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white)
-    - ![vite](https://img.shields.io/badge/vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+- ![vite](https://img.shields.io/badge/vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+<br/>
 
-<br><br>
-  
-- Backend
-     - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
-      ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=Java&logoColor=white)
-      ![Springboot](https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-      ![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
-      ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white)
-      ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
-      ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
-    - ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-      ![RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat-square&logo=Amazon%20RDS&logoColor=white)
-      ![S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white)
-      ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white)
-    - ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
-      ![EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white)
-      ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-      ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
-  <br><br>
-  
-- Co-working Tool
-  - ![swagger](https://img.shields.io/badge/swagger-85EA2D.svg?style=flat-square&logo=swagger&logoColor=white)
-      ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
-      ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
- <br><br>
-
-  
-
-### **🐾 기술 스택 선정 이유**
-
-
-### **📘 Frontend 스택 선정 이유**
+#### TypeScript
+- 동적 타입 체크를 통한 코드 안정성 향상 및 오탈자를 방지합니다.
 
 #### React
-- 가장 많이 사용되는 라이브러리로, 개발 생산성을 위해 도입하였습니다.
+- 가장 많이 사용되고 익숙한 라이브러리로, 개발 생산성을 위해 도입하였습니다.
 - 컴포넌트 기반 아키텍처: React는 UI를 컴포넌트로 나누어 개발하도록 돕는 컴포넌트 기반 아키텍처를 제공합니다. 이로써 코드를 재사용하고 유지보수하기 쉽습니다.
 - Virtual DOM: React의 가상 DOM은 성능을 최적화하고 브라우저 상의 DOM 조작을 최소화하여 빠른 웹 애플리케이션을 구축하는 데 도움을 줍니다.
-  
-#### TypeScript
-- 동적 타입 체크를 통한 코드 안정성 향상 및 오탈자 방지
 
 #### Styled-Components
-- 컴포넌트 재사용이 편리하고 유지보수가 간편함
-- 컴포넌트 수준에서 스타일링을 관리하는 효과적인 방법 제공
+- 컴포넌트 재사용이 편리하고 유지보수가 간편합니다.
+- 컴포넌트 수준에서 스타일링을 관리하는 효과적인 방법을 제공합니다.
 
 #### Recoil
-- 전역 상태를 관리하기 위한 간단하고 직관적인 방법 제공하는 라이브러리
+- 전역 상태를 관리하기 위한 간단하고 직관적인 방법 제공하는 라이브러리입니다.
 
 #### Tailwind CSS:
 - 클래스 기반 스타일링: Tailwind CSS는 클래스를 사용하여 스타일을 정의하므로 컴포넌트에서 쉽게 스타일을 적용할 수 있습니다.
@@ -268,22 +235,35 @@ Wanteam 서비스는  ‘공모전, 대회를 비롯한 대외활동을 함께�
 #### Axios:
 - HTTP 요청 라이브러리: Axios는 HTTP 요청을 쉽게 보내고 응답을 처리할 수 있는 라이브러리로, RESTful API와 통신하기 위한 강력한 도구입니다.
 - Promise 기반: Axios는 Promises를 사용하여 비동기 작업을 처리하므로 코드가 간결하고 오류 처리가 효율적입니다.
-
-
-
-<br><br>
-### **📗 Backend 스택 선정 이유**
+  
+<br/><br/>
+  
+### 💻Backend
+- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
+      ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=Java&logoColor=white)
+      ![Springboot](https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+      ![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+      ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white)
+      ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+      ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+- ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+      ![RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat-square&logo=Amazon%20RDS&logoColor=white)
+      ![S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white)
+      ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white)
+- ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
+      ![EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white)
+      ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+      ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
+<br/>
 
 #### Spring Data JPA 
 - 자바에서 db bender에 종속되지 않고 객체 중심으로 애플리케이션 개발 가능합니다.
-
-**Infra**
-#### AWS EC2 
+#### AWS EC2
 - 스프링 애플리케이션 배포 서버로 프리티어를 통해 무료로 일정량 사용할 수 있습니다.,
 #### RDS mysql 
 - 일정량 무료로 사용할 수 있으며 클라우드 인스턴스화 할 수 있습니다.
 #### S3
-- 필요한 데이터를 어디서나 쉽게 저장하고 검색할 수 있도록 해줍니다.,
+- 필요한 데이터를 어디서나 쉽게 저장하고 검색할 수 있도록 해줍니다.
 #### Docker 
 - CICD를 진행 할 때 실행 가능한 서버 애플리케이션을 도커를 통해 컨테이너화 시켜 서버 환경에서 쉽게 실행할 수 있게 합니다.
 #### Docker-compose 
@@ -292,10 +272,20 @@ Wanteam 서비스는  ‘공모전, 대회를 비롯한 대외활동을 함께�
 - Github에서 제공하는 CICD 프로세스로 젠킨스와 같은 별도의 파이프라인을 구축할 필요 없다는 장점이 있습니다.
 #### Spring Security 
 - Spring boot와 통합하여 사용자 인증과 인가에 대한 보안 요구사항을 쉽게 처리하도록 도와줍니다.
+
+<br/><br/>
+
+### 📑Co-working Tool
+  - ![swagger](https://img.shields.io/badge/swagger-85EA2D.svg?style=flat-square&logo=swagger&logoColor=white)
+      ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
+      ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+
+
 <br><br>
 
 ## 🔖 Naming Rules
-### Frontend
+### 🖥️Frontend
 - component : **PascalCase**
   - 최상위 태그 : **-Layout**
   - 차상위 태그 : **-Container**
@@ -306,7 +296,7 @@ Wanteam 서비스는  ‘공모전, 대회를 비롯한 대외활동을 함께�
   - props : **PascalCaseProps**
   - api response : **PascalCaseResponse**
 
-### Backend
+### 💻Backend
 - **Packages**
   - 항상 소문자로 생성하기
 - **Classes**
