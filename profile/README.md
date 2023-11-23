@@ -1,8 +1,8 @@
-# 🌟 서비스명
+# 🌟 서비스명(서비스 링크 : https://wanteam.vercel.app/ )
 
 
 
-![wanteam_title](https://github.com/Kusitms-28th-Meetup-D/.github/assets/113091000/3dc2c71f-0efb-4e1a-b845-8af2cfe3837d)
+<img width="1000" alt="스크린샷 2023-11-23 오후 11 21 04" src="https://github.com/Kusitms-28th-Meetup-D/.github/assets/113091000/40d2e6b7-aa51-431e-ad4e-3f674e31c058">
 
 <br><br>
 
