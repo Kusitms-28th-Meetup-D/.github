@@ -202,6 +202,12 @@ Wanteam이 제공하는, 경쟁사보다 더 우월한 가치
       ⇒ 서로 다른 니즈를 가진 라이트 유저, 헤비 유저는 Wanteam을 각기 다른 목적으로 사용할 것임. <br></br>
         → Wanteam은 이러한 유저의 니즈와 사용 목적에 적절히 대응하는 서비스를 제공하도록 설계되었음 <br></br>
 
+2. 페르소나
+
+<img width="1000" alt="스크린샷 2023-11-23 오후 11 31 49" src="https://github.com/Kusitms-28th-Meetup-D/.github/assets/113091000/9985562d-13c8-4163-b2d9-c7c059adc761">
+<img width="1000" alt="스크린샷 2023-11-23 오후 11 31 58" src="https://github.com/Kusitms-28th-Meetup-D/.github/assets/113091000/8237119b-e072-49f7-b327-43b3b2105259">
+
+
 
 <br>
 
