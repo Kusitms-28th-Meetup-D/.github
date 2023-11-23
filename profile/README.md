@@ -26,14 +26,14 @@
 
 | 분야 | 이름 | 포지션 |
 | --- | --- | --- |
-| 기획 | 민혜린 | 📈서비스 기획 - 유저리서치, 경쟁사 분석 및 타겟 분석, 서비스 타겟층 정의 |
-| 기획 | 박형준 | 📊서비스 기획 - 프로젝트 매니징, 유저리서치, 비즈니스 모델 |
-| 기획 | 채영대 | 📋 서비스 기획 -문제 정의 및 솔루션 제시, 유저리서치 |
-| 디자인 | 이재영 | 📢 서비스 디자인 |
-| 개발 | 박진우 | 🖥️ 개발 리드, 웹 화면 UI 구현, 서버 연동 |
-| 개발 | 박예진 | 🖥️ 웹 화면 UI 구현, 서버 연동 |
-| 개발 | 이민정 | 💻 DB 및 API 구축, 서버 배포 |
-| 개발 | 오진영 | 💻 DB 및 API 구축, 서버 배포 |
+| 기획 | 민혜린 | 📈기획 : 리서치・서비스 핵심 기능 및 세부 기능 설계 담당 |
+| 기획 | 박형준 | 📊 PM & 기획 : 팀 총 관리 및 스토리보드 담당 |
+| 기획 | 채영대 | 📋 기획 : 기획 총괄 및 가설 검증・비즈니스 모델 설계 담당 |
+| 디자인 | 이재영 | 📢 디자인 : 디자인 총괄 및 UI/UX 툴을 이용한 프로토타입 디자인 |
+| 개발 | 박진우 | 🖥️ Front-End, 개발 리드, 소셜 로그인 구현, 서버 연동 |
+| 개발 | 박예진 | 🖥️ Front-End, 웹 화면 UI 구현, 서버 연동,  |
+| 개발 | 이민정 | 💻 Back-End, 서버 배포 및 MongoDB 구축 |
+| 개발 | 오진영 | 💻 Back-End, ERD 설계 및 MySQL 구축|
 <br>
 
 ## 🔎 목적 및 필요성
@@ -191,15 +191,15 @@ Wanteam 서비스는 ‘공모전, 대회를 비롯한 대외활동을 함께할
 
 ## **🎨 디자인 무드보드**
 
-![원팀_디자인 시스템](https://github.com/Kusitms-28th-Meetup-D/.github/assets/113091000/d6895c63-8cb9-4984-ac8c-516a949932b0)
 
+![원팀_디자인 시스템](https://github.com/Kusitms-28th-Meetup-D/.github/assets/77064618/e01a9b4a-b6d1-45da-8240-6b30c2f048c9)
 
 <br><br>
 
 ## **🔍 System Architecture**
 
 
-![image](https://github.com/Kusitms-28th-Meetup-D/.github/assets/77064618/b3ac86bc-f388-4ac8-9826-c383289b3cdf)
+![image](https://github.com/Kusitms-28th-Meetup-D/.github/assets/77064618/b31487de-eb5e-400b-b141-7e5d9817fb07)
 
 <br><br>
 
@@ -212,8 +212,7 @@ Wanteam 서비스는 ‘공모전, 대회를 비롯한 대외활동을 함께할
       ![Axios](https://img.shields.io/badge/axios-DB5C3F?style=flat-square&logo=axios&logoColor=white)
       ![Recoil](https://img.shields.io/badge/recoil-f26b00?style=flat-square&logo=recoil&logoColor=white)
       ![Styled-Components](https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
-      ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=Tailwind%20CSS&logoColor=white)
-      ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white)
+     
 - ![vite](https://img.shields.io/badge/vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 <br/>
 
@@ -232,15 +231,12 @@ Wanteam 서비스는 ‘공모전, 대회를 비롯한 대외활동을 함께할
 #### Recoil
 - 전역 상태를 관리하기 위한 간단하고 직관적인 방법 제공하는 라이브러리입니다.
 
-#### Tailwind CSS:
-- 클래스 기반 스타일링: Tailwind CSS는 클래스를 사용하여 스타일을 정의하므로 컴포넌트에서 쉽게 스타일을 적용할 수 있습니다.
-- 가독성 및 유지보수성: 명시적인 클래스 이름을 사용하므로 코드를 읽고 이해하기 쉽습니다. 또한 일관된 디자인을 적용하기 용이합니다.
-- 편리한 반응형 디자인: Tailwind CSS는 반응형 디자인을 쉽게 적용할 수 있도록 도와줍니다.
-
 #### Axios:
 - HTTP 요청 라이브러리: Axios는 HTTP 요청을 쉽게 보내고 응답을 처리할 수 있는 라이브러리로, RESTful API와 통신하기 위한 강력한 도구입니다.
 - Promise 기반: Axios는 Promises를 사용하여 비동기 작업을 처리하므로 코드가 간결하고 오류 처리가 효율적입니다.
-  
+
+#### react-query
+- 자동으로 데이터를 캐싱하고, 주기적으로 갱신하여 최신 데이터를 유지한다.
 <br/><br/>
   
 ### 💻Backend
@@ -360,3 +356,8 @@ Ex) `git commit -m "feat(#8) : 앱 설치 플로팅 배너 추가" `
   브랜치 네이밍 : `feat/이슈번호`
 
 <br>
+
+## ERD 및 워크플로우
+
+![image](https://github.com/Kusitms-28th-Meetup-D/.github/assets/77064618/5f19432f-9a21-47f3-ac7c-d32be1d4bc54)
+![image](https://github.com/Kusitms-28th-Meetup-D/.github/assets/77064618/7e22fb9b-45b9-4fe6-9a04-ef615b8181b7)
