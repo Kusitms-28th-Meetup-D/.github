@@ -271,7 +271,7 @@ Wanteam 서비스는 ‘공모전, 대회를 비롯한 대외활동을 함께할
 
 
 
-<img width="1000" alt="스크린샷 2023-11-23 오후 11 24 23" src="https://github.com/Kusitms-28th-Meetup-D/.github/assets/113091000/13d339d9-2fef-4ad6-ae7b-163d34df8a1f">
+<img width="1943" alt="스크린샷 2023-11-23 오후 11 24 23" src="https://github.com/Kusitms-28th-Meetup-D/.github/assets/113091000/13d339d9-2fef-4ad6-ae7b-163d34df8a1f">
 
 <br><br>
 
