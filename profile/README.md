@@ -271,6 +271,10 @@ Wanteam 서비스는 ‘공모전, 대회를 비롯한 대외활동을 함께할
 
 ![원팀_디자인 시스템](https://github.com/Kusitms-28th-Meetup-D/.github/assets/77064618/e01a9b4a-b6d1-45da-8240-6b30c2f048c9)
 
+
+<img width="943" alt="스크린샷 2023-11-23 오후 11 26 01" src="https://github.com/Kusitms-28th-Meetup-D/.github/assets/113091000/fa3db153-0ec2-4748-8740-4b359f10d45e">
+
+
 <br><br>
 
 ## **🔍 System Architecture**
